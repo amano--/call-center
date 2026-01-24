@@ -1,0 +1,1 @@
+import{j as e}from"./index-BQC43ji0.js";function n(){return e.jsx("div",{className:"p-2",children:'I am an "expensive" component... which really just means that I was code-split 😉'})}const s=n;export{s as component};

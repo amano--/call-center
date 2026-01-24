@@ -1,0 +1,1 @@
+import{j as s,i as o}from"./index-BQC43ji0.js";import{u as n}from"./useSuspenseQuery-DaXERWQQ.js";function a(){const e=n(o()).data;return s.jsx("div",{className:"p-2",children:s.jsxs("div",{className:"p-2",children:["Welcome to the dashboard! You have"," ",s.jsxs("strong",{children:[e.length," total invoices"]}),"."]})})}export{a as component};

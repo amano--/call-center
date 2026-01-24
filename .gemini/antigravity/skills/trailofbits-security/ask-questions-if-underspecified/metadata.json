@@ -1,0 +1,9 @@
+{
+  "name": "ask-questions-if-underspecified",
+  "description": "Clarify requirements before implementing. Use when serious doubts araise.",
+  "version": "1.0.0",
+  "files": [
+    "SKILL.md",
+    "SKILL.ja.md"
+  ]
+}

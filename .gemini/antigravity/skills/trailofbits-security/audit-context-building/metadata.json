@@ -1,0 +1,9 @@
+{
+  "name": "audit-context-building",
+  "description": "Enables ultra-granular, line-by-line code analysis to build deep architectural context before vulnerability or bug finding.",
+  "version": "1.0.0",
+  "files": [
+    "SKILL.md",
+    "SKILL.ja.md"
+  ]
+}

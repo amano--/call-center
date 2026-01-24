@@ -1,0 +1,1 @@
+import{g as n,h as t,j as e}from"./index-BQC43ji0.js";import{u as o}from"./useSuspenseQuery-DaXERWQQ.js";function p(){const r=n.useSearch(),s=o(t(r.userId)).data;return e.jsxs(e.Fragment,{children:[e.jsx("h4",{className:"p-2 font-bold",children:s?.name}),e.jsx("pre",{className:"text-sm whitespace-pre-wrap",children:JSON.stringify(s,null,2)})]})}export{p as component};

@@ -1,0 +1,1 @@
+import{b as n,j as e}from"./index-BQC43ji0.js";function t(){const{username:s}=n.useRouteContext();return e.jsx("div",{className:"p-2 space-y-2",children:e.jsxs("div",{children:["Username:",e.jsx("strong",{children:s})]})})}export{t as component};
