@@ -1,0 +1,8 @@
+{
+  "name": "Remotion Skills",
+  "version": "1.0.0",
+  "date": "2026-01-22",
+  "abstract": "Remotion video creation framework best practices and patterns for React-based video composition",
+  "tags": ["remotion", "video", "react", "animation", "composition"],
+  "category": "web-development"
+}

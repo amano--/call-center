@@ -1,0 +1,8 @@
+{
+  "name": "remotion-best-practices",
+  "version": "1.0.0",
+  "date": "2026-01-22",
+  "abstract": "Best practices for Remotion - Video creation in React with comprehensive patterns for animations, assets, compositions, and effects",
+  "tags": ["remotion", "video", "react", "animation", "composition", "3d", "captions", "effects"],
+  "category": "web-development"
+}
